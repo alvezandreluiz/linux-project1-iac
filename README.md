@@ -26,3 +26,5 @@ In the project directory, run the next command to apply the changes:
     <img src="./img/image3.png"
          alt="Root directory at the end">
 </figure>
+
+Instructor: [Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/)
