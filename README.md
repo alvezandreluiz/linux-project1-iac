@@ -1,5 +1,5 @@
 # linux-project1-iac
-Infrastructure as Code (IaC): Script for creating the structure of users, directories, and permissions (iac1.sh file) in an Ubuntu Linux environment.
+Infrastructure as Code (IaC): Script for creating the structure of users, directories, and permissions (iac1.sh file) in an Ubuntu Linux environment. Part of Digital Innovation One's (DIO) Linux Experience Bootcamp.
 
 ## Available Script
 
